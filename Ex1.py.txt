@@ -1,8 +1,8 @@
-print('Good Afternoon')
+print('good afternoon')
 
-print 'Good Evening'
+print 'good evening'
 
 print 'good night'
 
-print "Hello world"
+print "good day"
 

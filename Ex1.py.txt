@@ -2,7 +2,7 @@ print('Good Afternoon')
 
 print 'Good Evening'
 
-print 'Good Night"
+print 'good night'
 
-print 'Good Day'
+print "Hello world"
 

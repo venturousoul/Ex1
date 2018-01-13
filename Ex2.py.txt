@@ -1,0 +1,4 @@
+# new exercise for creating a source file
+# a function to return only current date
+
+# a function to return a current year
